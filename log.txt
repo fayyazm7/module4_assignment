@@ -1,2 +1,15 @@
-b4ce286 (HEAD -> main) Task 1.1
-8531a5a (origin/main, origin/HEAD) Initial commit
+124958d (HEAD -> main) Task 2.4
+124958d (HEAD -> main) Task 2.4
+15154f6 Task 2.3
+b38db28 Task 2.2
+efa7ad9 Task 2.1
+07620f4 Task 2.1
+75e9644 Task 1.2
+5ea9715 Task 1.1
+2b4f164 (origin/main, origin/HEAD) fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
+b545fe2 clarifying extracted method names in README.md
+a0124c9 fixing starter file
+c8d9d38 adding starter files
+cbe4517 first commit
+(END)
